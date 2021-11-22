@@ -1,0 +1,108 @@
+#total{
+    background-color: skyblue;
+    width: 217px;
+    padding: 10px;
+  }
+  #part1{
+    padding-top: 5px;
+  }
+  #part2{
+    padding-top: 5px;
+  }
+  #part3{
+    padding-top: 5px;
+  }
+  #part4{
+    padding-top: 5px;
+  }
+  #clear{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #add{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #one{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #two{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #three{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #sub{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #four{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #five{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #six{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #mult{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #seven{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #eight{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #nine{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #div{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #dot{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #zero{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #equal{
+    width: 50px;
+    border-radius: 10px;
+    background-color: green;
+  }
+  #numbers{
+    border-radius: 1.5em;
+    background-color: black;
+    color: white;
+    width: 153px;
+  }
